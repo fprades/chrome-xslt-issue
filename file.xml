@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <?xml-stylesheet type="text/xsl" href="file.xslt"?>
 <html xmlns="http://www.w3.org/1999/xhtml">
- <head>Fail</head>
+ <head>
+  <title>Fail</title>
+ </head>
  <body>
  <p>XSLT isn't working</p>
  </body>
