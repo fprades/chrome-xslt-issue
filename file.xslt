@@ -3,11 +3,13 @@
   xmlns="http://www.w3.org/1999/xhtml"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
   <xsl:template match="/">
+    <html>
     <head>
   <title>Success</title>
   </head>
   <body>
   <p>Hello world!</p>
   </body>
+    </html>
   </xsl:template>
 </xsl:stylesheet>
